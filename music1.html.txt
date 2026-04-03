@@ -1,0 +1,41 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Музика</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div id="wrapper">
+
+<div id="header">
+<div class="text_header">Моя сторінка</div>
+</div>
+
+<div id="menu">
+<ul>
+<li><a href="index.html">Головна</a></li>
+<li><a href="schedule.html">Розклад</a></li>
+<li><a href="our_class.html">Наш клас</a></li>
+<li><a href="video.html">Відео</a></li>
+<li><a href="music.html">Музика</a></li>
+<li><a href="contacts.html">Контакти</a></li>
+</ul>
+</div>
+
+<div id="content">
+<h1>Музика</h1>
+<audio controls>
+<source src="https://www.w3schools.com/html/horse.mp3" type="audio/mpeg">
+</audio>
+</div>
+
+<div id="footer">
+<div class="footer_text">Мій перший сайт</div>
+</div>
+
+</div>
+
+</body>
+</html>
